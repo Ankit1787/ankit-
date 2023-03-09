@@ -27,7 +27,7 @@
            
             border-bottom-style: dotted;
             border-color: #b80f93;
-            border-width: 15px;
+            border-width: 15rem;
        
             width: 30%;
     
@@ -63,14 +63,14 @@
         } */
         /* #heading{
             color: purple;
-            font-size: 60px;
+            font-size: 60rem;
         } */
         /* h1{
             color: #FF5733 ;
-            font-size: 100px;
-            margin-top: 0px;
-            margin-right: 0px;
-            margin-left: 0px;
+            font-size: 100rem;
+            margin-top: 0rem;
+            margin-right: 0rem;
+            margin-left: 0rem;
 
         } */
         .head{
@@ -95,7 +95,7 @@
         }
         .top{
            /* position: relative; */
-            padding-top: 150px;
+            padding-top: 9.375rem;
             background-color: #83b4b2;
           
 
@@ -113,61 +113,61 @@
         } */
         /* .content{
             background-color: #a7c5bf;
-            margin: 0px;
+            margin: 0rem;
            
         } */
         .topcloud{
            
             position: absolute;
-            height: 125px;
+            height: 7.8125rem;
            
-            top: 60px;
-            right: 300px;
+            top: 3.75rem;
+            right: 18.75rem;
 
            
         }
         .bottomcloud{
             position: absolute;
-            height: 125px;
-            /* bottom: 400px; */
+            height: 7.8125rem;
+            /* bottom: 400rem; */
            
             
-            left: 300px;
+            left: 18.75rem;
 
             /* position: absolute;
-            left: 500px; */
+            left: 500rem; */
         }
         .java{
-            height: 250px;
+            height: 15.625rem;
             width: 30%;
             float: left;
-            margin-right: 40px;
-            /* margin-bottom: 400px; */
+            margin-right: 2.5rem;
+            /* margin-bottom: 400rem; */
             background-color: #f3f7f7;
             border-radius: 100%;
             /* position: relative;
-            top: 160px; */
+            top: 160rem; */
           
             
             
         }
         .python{
-            height: 250px;
+            height: 15.625rem;
             width: 25%;
             float: right;
-            margin-left: 40px;
+            margin-left: 2.5rem;
             background-color: #f3f7f7;
             border-radius: 90%;
           }
         .pic{
             border-radius: 90%;
             width: 30%;
-            height: 300px;
+            height: 18.75rem;
             
         }
         .profile{
            
-            padding-top: 100px;
+            padding-top: 6.25rem;
         }
         h3{
             color: #0bebeb;
@@ -185,8 +185,8 @@
             margin: 0;
             background-color: #16c4bb;
             font-size: 1.275rem;
-            padding-top: 30px;
-            padding-bottom: 20px;
+            padding-top: 1.875rem;
+            padding-bottom: 1.25rem;
             
             
         }
@@ -195,7 +195,7 @@
         }
         .skill-row{
             width: 50%;
-            margin: 100px auto;
+            margin: 6.25rem auto;
             line-height: 2;
             font-size: 1.346rem;
            
@@ -220,14 +220,14 @@
         hr{
             border-style: none;
         
-            border-top:20px dotted #1e6060;
-            /* height: 20px; */
+            border-top:1.25rem dotted #1e6060;
+            /* height: 20rem; */
             width: 10%;
         }
         .contact-me{
             text-align: center;
           width: 50%;
-          margin: 0 auto 40px auto;
+          margin: 0 auto 2.5rem auto;
           font-size: 1.346rem;
         }
         .btn {
@@ -239,11 +239,11 @@
             background-image: linear-gradient(to bottom, #11cdd4, #11999e);
             -webkit-border-radius: 8;
             -moz-border-radius: 8;
-            border-radius: 8px;
+            border-radius: 0.5rem;
             font-family: Arial;
             color: #e6e6e6;
-            font-size: 35px;
-            padding: 10px 20px 10px 20px;
+            font-size: 2.1875rem;
+            padding: 0.625rem 1.25rem 0.625rem 1.25rem;
             text-decoration: none;
           }
           
@@ -257,11 +257,11 @@
             text-decoration: none;
           }
           .contact-descr{
-            margin: 40px;
+            margin: 2.5rem;
 
           }
           .footer-link{
-            margin-left: 40px;
+            margin-left: 2.5rem;
           }
           p{
             line-height: 2;
